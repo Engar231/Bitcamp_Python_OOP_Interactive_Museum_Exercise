@@ -1,0 +1,33 @@
+[
+    {
+        "tipo": "Dipinto",
+        "titolo": "La Gioconda",
+        "autore": "Leonardo da Vinci",
+        "anno": 1503,
+        "tecnica": "Olio su Tavola"
+    },
+    {
+        "tipo": "Scultura",
+        "titolo": "David",
+        "autore": "Michelangelo",
+        "anno": 1504,
+        "materiale": "Marmo",
+        "altezzacm": 200
+    },
+    {
+        "tipo": "Scultura",
+        "titolo": "Il Pensatore",
+        "autore": "Rodin",
+        "anno": 1904,
+        "materiale": "Bronzo",
+        "altezzacm": 180
+    },
+    {
+        "tipo": "InstallazioneMultimediale",
+        "titolo": "Rain Room",
+        "autore": "Random International",
+        "anno": 2012,
+        "formato": "Full HD",
+        "interattiva": true
+    }
+]
